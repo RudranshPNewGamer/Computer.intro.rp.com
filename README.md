@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Computer- All about it!</title>
+<title> Computer- All about it! </title>
 <meta name="author" content="Rudransh Pandey">
 <marquee><font color="red">Note: This tells only about introduction to computer</font color="red"></marquee>
 </head>
